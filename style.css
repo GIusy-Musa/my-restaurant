@@ -4,7 +4,10 @@ body {
 }
 
 h1 {
-    color: red;
+    color: green;
 }
 
+.contact-form {
+    background-color: blue;
+}
 
